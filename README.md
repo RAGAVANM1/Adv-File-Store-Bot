@@ -1,4 +1,4 @@
-# Adv-File-Sharing-Bot 
+# Adv-File-Store-Bot 
 
 <p align="center">
   <img src="https://telegra.ph/file/a8b218503819afb6f9b83.jpg"><br>
