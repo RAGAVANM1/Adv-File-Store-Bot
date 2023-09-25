@@ -9,6 +9,7 @@
   <a href="https://t.me/techytelsupport">
     &nbsp;<img src="https://img.shields.io/badge/Techy%20Tel-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
+  
   <br>
   <a href="https://github.com/evertel/Adv-File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/evertel/Adv-File-Sharing-Bot?style=social">
@@ -18,7 +19,9 @@
   </a>  
 </p>
 
-# ★ This Is An Adv File Store Bot, Which Support Url Shortner & Auto Delete Message. ★
+
+★ This Is An Adv File Store Bot, Which Support Url Shortner & Auto Delete Message. ★
+
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
