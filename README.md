@@ -11,10 +11,10 @@
   </a>
   <br>
   <a href="https://github.com/evertel/Adv-File-Sharing-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/evertel/File-Sharing-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/evertel/Adv-File-Sharing-Bot?style=social">
   </a>
   <a href="https://github.com/Evertel/Adv-File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/evertel/File-Sharing-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/evertel/Adv-File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
 
