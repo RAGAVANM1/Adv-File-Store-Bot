@@ -1,0 +1,8 @@
+Pyrogram==2.0.30
+TgCrypto
+motor
+aiofiles
+dnspython
+psutil
+render
+requests
