@@ -72,16 +72,9 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Official YouTube", url="https://youtube.com/@techytel")
-                    ],
-                    [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
                         InlineKeyboardButton("About Dev", callback_data="aboutdevs"),
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
-                    ],
-                    [
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/TechyTel"),
-                        InlineKeyboardButton(" Support Group", url="https://t.me/TechyTelSupport")
                     ]
                 ]
             )
